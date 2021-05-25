@@ -19,19 +19,19 @@ account default
 host smtp.gmail.com
 port 587
 auth on
-user natabackup1@gmail.com
-from natabackup1@gmail.com
-password  mseedfoidspcikem
+user arybowo82@gmail.com
+from arybowo82@gmail.com
+password  sayangku6
 logfile ~/.msmtp.log
 EOF
 chown -R www-data:www-data /etc/msmtprc
 cd /usr/bin
-wget -O autobackup "https://raw.githubusercontent.com/Nataslamet/Natascript/main/autobackup.sh"
-wget -O backup "https://raw.githubusercontent.com/Nataslamet/Natascript/main/backup.sh"
-wget -O bckp "https://raw.githubusercontent.com/Nataslamet/Natascript/main/bckp.sh"
-wget -O restore "https://raw.githubusercontent.com/Nataslamet/Natascript/main/restore.sh"
-wget -O strt "https://raw.githubusercontent.com/Nataslamet/Natascript/main/strt.sh"
-wget -O limit-speed "https://raw.githubusercontent.com/Nataslamet/Natascript/main/limit-speed.sh"
+wget -O autobackup "https://raw.githubusercontent.com/aryprabow/Script/main/autobackup.sh"
+wget -O backup "https://raw.githubusercontent.com/aryprabow/Script/main/backup.sh"
+wget -O bckp "https://raw.githubusercontent.com/aryprabow/Script/main/bckp.sh"
+wget -O restore "https://raw.githubusercontent.com/aryprabow/Script/main/restore.sh"
+wget -O strt "https://raw.githubusercontent.com/aryprabow/Script/main/strt.sh"
+wget -O limit-speed "https://raw.githubusercontent.com/aryprabow/Script/main/limit-speed.sh"
 chmod +x autobackup
 chmod +x backup
 chmod +x bckp
