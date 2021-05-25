@@ -89,10 +89,10 @@ WG_RUNNING=$?
 
 # Tambahan
 cd /usr/bin
-wget -O add-wg "https://raw.githubusercontent.com/Nataslamet/Natascript/main/add-wg.sh"
-wget -O del-wg "https://raw.githubusercontent.com/Nataslamet/Natascript/main/del-wg.sh"
-wget -O cek-wg "https://raw.githubusercontent.com/Nataslamet/Natascript/main/cek-wg.sh"
-wget -O renew-wg "https://raw.githubusercontent.com/Nataslamet/Natascript/main/renew-wg.sh"
+wget -O add-wg "https://raw.githubusercontent.com/aryprabow/Script/main/add-wg.sh"
+wget -O del-wg "https://raw.githubusercontent.com/aryprabow/Script/main/del-wg.sh"
+wget -O cek-wg "https://raw.githubusercontent.com/aryprabow/Script/main/cek-wg.sh"
+wget -O renew-wg "https://raw.githubusercontent.com/aryprabow/Script/main/renew-wg.sh"
 chmod +x add-wg
 chmod +x del-wg
 chmod +x cek-wg
