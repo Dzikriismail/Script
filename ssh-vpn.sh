@@ -13,12 +13,12 @@ ver=$VERSION_ID
 
 #detail nama perusahaan
 country=ID
-state=Indonesia
-locality=Indonesia
-organization=www.vpnstores.net
-organizationalunit=www.vpnstores.net
-commonname=www.vpnstores.net
-email=admin@vpnstores.net
+state=Jawa Tengah
+locality=Wonogiri
+organization=BowoServer
+organizationalunit=BowoServer
+commonname=id.bowoserver.my.id
+email=arybowo82@gmail.com
 
 # simple password minimal
 wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/aryprabow/Script/main/password"
