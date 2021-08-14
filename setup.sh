@@ -87,11 +87,11 @@ echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "   - Dev/Main                : Horas Marolop Amsal Siregar"  | tee -a log-install.txt
-echo "   - Telegram                : T.me/Horasss"  | tee -a log-install.txt
-echo "   - Instagram               : @horas_96"  | tee -a log-install.txt
-echo "   - Whatsapp                : 082386143124"  | tee -a log-install.txt
-echo "   - Facebook                : https://www.facebook.com/Marlosirega" | tee -a log-install.txt
-echo "------------------Script Created By Horas Marolop Amsal Siregar-----------------" | tee -a log-install.txt
+echo "   - Telegram                : T.me/AryBowo"  | tee -a log-install.txt
+echo "   - Instagram               : @arybowo82"  | tee -a log-install.txt
+echo "   - Whatsapp                : 082137111442"  | tee -a log-install.txt
+echo "   - Facebook                : https://www.facebook.com/ariprabowo" | tee -a log-install.txt
+echo "----------------------Script By Ary Prabowo ----------------------" | tee -a log-install.txt
 echo ""
 echo " Reboot 15 Sec"
 sleep 15
