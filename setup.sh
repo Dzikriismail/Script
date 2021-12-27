@@ -46,7 +46,7 @@ clear
 echo " "
 echo "Installation has been completed!!"
 echo " "
-echo "=================================-Autoscript Premium-===========================" | tee -a log-install.txt
+echo "=================================-Autoscript-===========================" | tee -a log-install.txt
 echo "" | tee -a log-install.txt
 echo "--------------------------------------------------------------------------------" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
@@ -86,12 +86,7 @@ echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "   - Dev/Main                : Horas Marolop Amsal Siregar"  | tee -a log-install.txt
-echo "   - Telegram                : T.me/AryBowo"  | tee -a log-install.txt
-echo "   - Instagram               : @arybowo82"  | tee -a log-install.txt
-echo "   - Whatsapp                : 082137111442"  | tee -a log-install.txt
-echo "   - Facebook                : https://www.facebook.com/ariprabowo" | tee -a log-install.txt
-echo "----------------------Script By Ary Prabowo ----------------------" | tee -a log-install.txt
+echo "----------------------Script By Unkown ----------------------" | tee -a log-install.txt
 echo ""
 echo " Reboot 15 Sec"
 sleep 15
