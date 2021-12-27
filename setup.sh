@@ -26,11 +26,11 @@ wget https://raw.githubusercontent.com/aryprabow/Script/main/ssr.sh && chmod +x 
 wget https://raw.githubusercontent.com/aryprabow/Script/main/sodosok.sh && chmod +x sodosok.sh && screen -S ss ./sodosok.sh
 #installwg
 wget https://raw.githubusercontent.com/aryprabow/Script/main/wg.sh && chmod +x wg.sh && screen -S wg ./wg.sh
-#install v2ray
-wget https://raw.githubusercontent.com/aryprabow/Script/main/ins-vt.sh && chmod +x ins-vt.sh && screen -S v2ray ./ins-vt.sh
 #install L2TP
 wget https://raw.githubusercontent.com/aryprabow/Script/main/ipsec.sh && chmod +x ipsec.sh && screen -S ipsec ./ipsec.sh
 wget https://raw.githubusercontent.com/aryprabow/Script/main/set-br.sh && chmod +x set-br.sh && ./set-br.sh
+#install v2ray
+wget https://raw.githubusercontent.com/aryprabow/Script/main/ins-vt.sh && chmod +x ins-vt.sh && ./ins-vt.sh
  
 rm -f /root/ssh-vpn.sh
 rm -f /root/sstp.sh
