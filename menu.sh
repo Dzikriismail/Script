@@ -88,6 +88,6 @@ echo -e "* info         : Displaying System Information"
 echo -e "* about        : Info Script Auto Install"
 echo -e "* exit         : Exit From VPS "
 echo -e ""
-echo -e ""Create By BowoServer
+echo -e ""
 echo -e "==============================================================="
 echo -e ""
